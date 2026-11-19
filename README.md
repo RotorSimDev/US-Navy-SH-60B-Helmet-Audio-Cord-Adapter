@@ -9,5 +9,4 @@ Second, you have to create an adapter cable to change your helmet's 5-conductor 
 
 The wiring diagram below shows how the conductors should be mapped in order for your helmet to work with the FlightSounds Solo-M adapter:
 
-<img width="408" height="347" alt="adapter-diagram" src="https://github.com/user-attachments/assets/eb39ab57-3ce0-4bfc-a063-22d8ccc9c3a5" />
-
+<img width="408" height="347" alt="adapter-diagram" src="https://github.com/user-attachments/assets/0a933200-d6fa-4e08-bb77-a1b4705f486e" />
