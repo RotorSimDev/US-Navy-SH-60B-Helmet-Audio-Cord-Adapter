@@ -17,7 +17,7 @@ Using a 4-wire cable (https://www.amazon.com/Conductor-Electrical-Stranded-Exten
 
 <img width="574" height="222" alt="174-labeled" src="https://github.com/user-attachments/assets/f034a079-91fe-4d63-bca6-c052c749fd2b" />
 
-Notice how conductor 2 on the U-385/U is connected to conductor 2 on the U-174/U jack.  Also note that conductor 1 on the U-174/U is the center post as shown in the above image. WORD OF ADVICE:  Make sure you put the plastic covers for the receptacle and jack on the 4-wire cable BEFORE you start soldering!
+Notice how conductor 2 on the U-385/U is connected to conductor 3 on the U-174/U jack.  Also note that conductor 1 on the U-174/U is the center post as shown in the above image. WORD OF ADVICE:  Make sure you put the plastic covers for the receptacle and jack on the 4-wire cable BEFORE you start soldering!
 
 When you're done, you should have something that looks like this:
 
